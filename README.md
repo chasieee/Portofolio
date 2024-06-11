@@ -17,9 +17,9 @@
 
 <img src="./Logo-white.svg" width="100%" height="200px">
   
-## Jayapura-14's Analytical Results Dashboard Website 🖥
+## 🖥 Jayapura-14's Analytical Results Dashboard Website 🖥
 
-## Giant Superstore 🛒
+## 🛒 Giant Superstore 🛒
 
 Capstone project created by <b>Jayapura 14</b> featuring web development and analytical data from Giant Superstore. <br/>
 
