@@ -13,9 +13,9 @@
 
 ![logo](./Logo-white.svg)
 
-<img src="./Logo-white.svg" width="100%" height="300px">
-
 # Kampus Merdeka February 2024 RevoU-Jayapura ✨
+
+<img src="./Logo-white.svg" width="100%" height="300px">
   
 ## Jayapura-14's Analytical Results Dashboard Website 🖥
 
