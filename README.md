@@ -13,7 +13,7 @@
 
 ![logo](./Logo-white.svg)
 
-<img src="./Logo-white.svg" width="400px" height="200px">
+<img src="./Logo-white.svg" width="100%" height="300px">
 
 # Kampus Merdeka February 2024 RevoU-Jayapura ✨
   
