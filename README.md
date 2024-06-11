@@ -31,6 +31,11 @@ Capstone project created by <b>Jayapura 14</b> featuring web development and ana
 |        Yulia Pradinda         |     _Front End_     |
 |     Oktaviya Dwi Lestari      |     _Front End_     |
 |    Febriansyah Ilham N.W.     |    _Deployment_     |
+
+&nbsp;
+
+|          **Name**             |      **Role**       |
+| :---------------------------: | :-----------------: |
 |     Yogi Dharma Susanto       | _Quality Assurance_ |
 |           Whevman             | _Quality Assurance_ |
 |      Tegar Rahmat Hidayat     | _Quality Assurance_ |
